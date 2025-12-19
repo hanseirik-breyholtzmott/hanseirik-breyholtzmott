@@ -49,6 +49,8 @@ a scalable foundation to help you **save 100+ hours** and focus on what makes yo
 
 - 🚀 **[NexusCap](https://bybreyholtz.com)** — all-in-one capital & shareholder management  
 - 🌊 **[Badstuegruppen](https://badstuegruppen.no/)** — connecting the Nordic sauna culture through tech  
+- ♨️ **[HeatBooking](https://heatbooking.com)** — booking platform in development  
+- 🧪 **[Fioobra](https://fioobra.com)** — project in development  
 - ⚡ **[Folkekraft](https://www.folkekraft.no/)** — powering sustainable ownership in energy  
 
 ---
